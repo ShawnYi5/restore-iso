@@ -1,0 +1,119 @@
+[
+    {
+        "des": "%win%\\system32\\drivers\\e1000325.sys",
+        "copy_failed": 2,
+        "copy_opt": 2,
+        "serv_pack_need": "",
+        "system_need": "05.01.00.??",
+        "src": "05.01.00\\e1000325.sys",
+        "retry_times": 2
+    },
+    {
+        "des": "%win%\\system32\\drivers\\e1000325.sys",
+        "copy_failed": 2,
+        "copy_opt": 2,
+        "serv_pack_need": "",
+        "system_need": "05.02.00.??",
+        "src": "05.02.00\\e1000325.sys",
+        "retry_times": 2
+    },
+    {
+        "des": "%win%\\system32\\drivers\\e1G5132e.sys",
+        "copy_failed": 2,
+        "copy_opt": 2,
+        "serv_pack_need": "",
+        "system_need": "05.02.09.??",
+        "src": "05.02.09\\e1G5132e.sys",
+        "retry_times": 2
+    },
+    {
+        "des": "%win%\\system32\\drivers\\E1G60I32.sys",
+        "copy_failed": 2,
+        "copy_opt": 2,
+        "serv_pack_need": "",
+        "system_need": "06.00.00.??",
+        "src": "06.00.00\\E1G60I32.sys",
+        "retry_times": 2
+    },
+    {
+        "des": "%win%\\system32\\drivers\\E1G6032E.sys",
+        "copy_failed": 2,
+        "copy_opt": 2,
+        "serv_pack_need": "",
+        "system_need": "06.00.09.??",
+        "src": "06.00.09\\E1G6032E.sys",
+        "retry_times": 2
+    },
+    {
+        "des": "%win%\\system32\\drivers\\E1G60I32.sys",
+        "copy_failed": 2,
+        "copy_opt": 2,
+        "serv_pack_need": "",
+        "system_need": "06.01.00.??",
+        "src": "06.01.00\\E1G60I32.sys",
+        "retry_times": 2
+    },
+    {
+        "des": "%win%\\system32\\drivers\\E1G6032E.sys",
+        "copy_failed": 2,
+        "copy_opt": 2,
+        "serv_pack_need": "",
+        "system_need": "06.01.09.??",
+        "src": "06.01.09\\E1G6032E.sys",
+        "retry_times": 2
+    },
+    {
+        "des": "%win%\\system32\\drivers\\E1G60I32.sys",
+        "copy_failed": 2,
+        "copy_opt": 2,
+        "serv_pack_need": "",
+        "system_need": "06.02.00.??",
+        "src": "06.02.00\\E1G60I32.sys",
+        "retry_times": 2
+    },
+    {
+        "des": "%win%\\system32\\drivers\\E1G6032E.sys",
+        "copy_failed": 2,
+        "copy_opt": 2,
+        "serv_pack_need": "",
+        "system_need": "06.02.09.??",
+        "src": "06.02.09\\E1G6032E.sys",
+        "retry_times": 2
+    },
+    {
+        "des": "%win%\\system32\\drivers\\E1G60I32.sys",
+        "copy_failed": 2,
+        "copy_opt": 2,
+        "serv_pack_need": "",
+        "system_need": "06.03.00.??",
+        "src": "06.03.00\\E1G60I32.sys",
+        "retry_times": 2
+    },
+    {
+        "des": "%win%\\system32\\drivers\\E1G6032E.sys",
+        "copy_failed": 2,
+        "copy_opt": 2,
+        "serv_pack_need": "",
+        "system_need": "06.03.09.??",
+        "src": "06.03.09\\E1G6032E.sys",
+        "retry_times": 2
+    },
+    {
+        "des": "%win%\\system32\\drivers\\E1G60I32.sys",
+        "copy_failed": 2,
+        "copy_opt": 2,
+        "serv_pack_need": "",
+        "system_need": "10.00.00.??",
+        "src": "10.00.00\\E1G60I32.sys",
+        "retry_times": 2
+    },
+    {
+        "des": "%win%\\system32\\drivers\\E1G6032E.sys",
+        "copy_failed": 2,
+        "copy_opt": 2,
+        "serv_pack_need": "",
+        "system_need": "10.00.09.??",
+        "src": "10.00.09\\E1G6032E.sys",
+        "retry_times": 2
+    }
+]

@@ -1,0 +1,15 @@
+bmf_proc.py
+CertMgr.exe
+chk_reg.py
+del_file.py
+devcon_32.exe
+devcon_64.exe
+filesys_read.py
+filesysapi.exe
+install_drv.py
+install_reg.py
+install_restore_bat.py
+pr_read.py
+restore.bat
+runCMDas.exe
+xlogging.py

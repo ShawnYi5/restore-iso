@@ -1,0 +1,11 @@
+
+copy_opt:选项
+增加：copy_opt_add = 1
+覆盖：copy_opt_over_write = 2
+覆盖失败重命名：copy_opt_over_write_rename = 3
+
+copy_failed:选项
+反复重试：copy_failed_retry = 1
+重试多少次之后放弃。copy_failed_retry_times_ignore = 2
+
+路径替换：现在只支持一个宏 %win% ,与windows 相同。
